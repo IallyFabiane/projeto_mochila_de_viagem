@@ -1,4 +1,3 @@
-# alura-armazenando-na-web
-localStorage
+# <h1>Web Storage (localStorage)</h1>
 
-Project deployed on: https://lucent-marigold-16491a.netlify.app/
+<h2>Project deployed on: https://lucent-marigold-16491a.netlify.app/</h2>
